@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Resources"/>
+    <Preference android:title="GitHub"
+        android:key="gitHub"
+        android:summary="All of our code is here"/>
+
+    <Preference android:title="Color Picker Library"
+        android:key="colorLibrary"
+        android:summary="AmbilWarna Library "/>
+
+</PreferenceScreen>
